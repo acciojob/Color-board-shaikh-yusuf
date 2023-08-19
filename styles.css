@@ -12,9 +12,11 @@
 	width:100px;
 	height:100px;
 	background:rgb(29, 29, 29);
+	transitions: 5s ease;
 	
 }
 .square:hover{
+	transition-duration: 0s;
 	background:rgb(29, 29,78);
 	
 }
